@@ -1,0 +1,15 @@
+Manifest-Version: 1.0
+Ant-Version: Apache Ant 1.8.2
+Created-By: 1.8.0_91-b14 (Oracle Corporation)
+Bundle-ManifestVersion: 2
+Bundle-Name: tpklib
+Bundle-SymbolicName: org.tizen.tpklib
+Bundle-Version: 2.0
+Require-Bundle: org.eclipse.core.runtime
+Bundle-ActivationPolicy: lazy
+Bundle-RequiredExecutionEnvironment: JavaSE-1.7
+Export-Package: org.tizen.tpklib, org.tizen.tpklib.lib, org.tizen.tpkl
+ ib.lib.file, org.tizen.tpklib.lib.zip, org.tizen.tpklib.model, org.ti
+ zen.tpklib.exception, org.tizen.tpklib.constants, org.tizen.tpklib.co
+ re.sign
+
